@@ -1,0 +1,51 @@
+{
+    "#comment": "Greetings traveler! Do you have any apples on you?",
+    "schedule": {
+        "events": [
+            {
+                "starts": "1771531208",
+                "ends": "1771537508",
+                "title": "Exploration publique",
+                "content": "Viens explorer les mondes de VRChat !"
+            },
+            {
+                "starts": "1772049600",
+                "ends": "1772055900",
+                "title": "Exploration spéciale: Liminal Space",
+                "content": "Exploration des mondes sur le thème : Liminal Space !"
+            },
+            {
+                "starts": "1772568000",
+                "ends": "1772574300",
+                "title": "Exploration publique",
+                "content": "Viens explorer les mondes de VRChat !"
+            },
+            {
+                "starts": "1773345600",
+                "ends": "1773351900",
+                "title": "World tour creator: Quartonix",
+                "content": ""
+            },
+            {
+                "starts": "1771444800",
+                "ends": "1771451100",
+                "title": "Exploration publique",
+                "content": "Viens explorer les mondes de VRChat !"
+            },
+            {
+                "starts": "1775070000",
+                "ends": "1775076300",
+                "title": "Exploration spéciale: WTF",
+                "content": ""
+            }
+        ]
+    },
+    "players": {
+        "cc9e5c74b695f5c9fe84e25331001c25b4e8d25635ccb8eea490bd98ed44533c": {
+            "cypher1": "BlZdVQdcUAYFBAdTUl9VVwgCDwQKDgEEVlBQW1BSBQU="
+        },
+        "ada9a99b15bbe94635b753d09372d69a1936ad90342bd6087b31ff8eb4e7df4f": {
+            "cypher1": "VwAFAFBUUFYAUw8HUFRTAgAOVwYLBAMBUlsEAgtXAQM="
+        }
+    }
+}
